@@ -1,2 +1,39 @@
 ﻿body {
+    background-color: lightblue;
+}
+
+.h1-class {
+    font-size: 48px;
+    color: lightyellow;
+}
+
+h1 {
+    text-align: center;
+    font-size: small;
+    color: lightyellow;
+}
+
+#h1-id {
+    font-size: 60px;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    margin-right: 400px;
+    margin-left: 400px; 
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
